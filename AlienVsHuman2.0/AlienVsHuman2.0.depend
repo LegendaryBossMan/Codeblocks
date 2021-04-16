@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512490709 source:c:\users\nazar_000\desktop\codeblocks\alienvshuman2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

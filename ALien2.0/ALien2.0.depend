@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512491221 source:c:\users\nazar_000\desktop\codeblocks\alien2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
